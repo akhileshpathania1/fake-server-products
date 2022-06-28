@@ -1,16 +1,15 @@
 {
-    "posts":[
-    {"productId":"1",
+  "posts": [
+    {
+    "productId":"1",
     "name":"Product 1",
     "Description":"Product 1 Description",
     "src":"https://mdbootstrap.com/img/new/standard/city/041.webp",
     "price":13.99,
-    "quantity":1},
-    {"productId":"2",
-    "name":"Product 2",
-    "Description":"Product 2 Description",
-    "src":"https://mdbootstrap.com/img/new/standard/city/041.webp",
-    "price":17.99,
-    "quantity":1},
-    ]
+    "quantity":1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
