@@ -1,12 +1,8 @@
 {
   "posts": [
     {
-    "productId":"1",
-    "name":"Product 1",
-    "Description":"Product 1 Description",
-    "src":"https://mdbootstrap.com/img/new/standard/city/041.webp",
-    "price":13.99,
-    "quantity":1
+      "id": 1,
+      "title": "hello"
     }
   ],
   "profile": {
